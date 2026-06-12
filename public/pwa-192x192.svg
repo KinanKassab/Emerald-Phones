@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="38" fill="#059669"/>
+  <rect x="56" y="28" width="80" height="136" rx="16" fill="white" opacity="0.95"/>
+  <rect x="72" y="44" width="48" height="80" rx="6" fill="#059669"/>
+  <circle cx="96" cy="140" r="8" fill="#059669"/>
+  <text x="72" y="88" font-family="Arial" font-size="28" font-weight="bold" fill="white">EP</text>
+</svg>
